@@ -1,0 +1,19 @@
+# Compiled Java class files
+*.class
+*.jar
+*.war
+bin/
+target/
+out/
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS temporary files
+Thumbs.db
+.DS_Store
