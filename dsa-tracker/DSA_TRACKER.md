@@ -10,7 +10,7 @@
 ### 🔹 1. Arrays & Hashing (Target: 12)
 - [x] #217 Contains Duplicate *(Easy)*
 - [x] #242 Valid Anagram *(Easy)*
-- [ ] #1 Two Sum *(Easy)*
+- [x] #1 Two Sum *(Easy)*
 - [ ] #49 Group Anagrams *(Medium)*
 - [ ] #347 Top K Frequent Elements *(Medium)*
 - [ ] #238 Product of Array Except Self *(Medium)*
