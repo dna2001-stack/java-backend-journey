@@ -134,4 +134,3 @@
 
 ---
 
-## 🏆 Current Progress: 2 / 150 Solved
